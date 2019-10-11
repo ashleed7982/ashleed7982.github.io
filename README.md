@@ -34,7 +34,7 @@ _NOTE: It is recommended you rename your logo file to_`logo.png`
 
 * Still on `index.html`, around line 100, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
 * Click the green **commit** button at the bottom.
-
+ 
 ##### Previewing your site
 
 * Go to `yourUserName.github.io` to see the preview of your site!
